@@ -1,1 +1,1 @@
-# informa-adventistas
+# advc-infografico
